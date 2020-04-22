@@ -1,5 +1,28 @@
 /* Navigation styles */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
+.center {
+    display: flex;
+    justify-content: center;
+
+}
+
+.left {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.right {
+    display: flex;
+    justify-content: flex-end;
+
+}
 /* Column styles */
 
 /* Footer Styles */
